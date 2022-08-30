@@ -1,5 +1,5 @@
-//Program koji iz datog stringa izdvaja samo slova.
-//Funkcija vraca pokazivac kao novokreirani niz.
+//A program that extracts only letters from a given string.
+//The function returns a pointer as a newly created string.
 #include <stdio.h>
 
 char *justLetters(char *p);
