@@ -1,0 +1,4 @@
+Baker
+M - Preferred gender of the worker
+5 years - Required working experience
+4 years - Required degree of professional education
