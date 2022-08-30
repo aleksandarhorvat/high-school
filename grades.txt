@@ -1,4 +1,0 @@
-Ellise 4 35
-Jaidan 5 55
-Terry 3 25
-Nancy 5 65.25

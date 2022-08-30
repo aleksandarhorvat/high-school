@@ -1,0 +1,10 @@
+Preston M 3 4 10000
+Alessia F 12 5 20000
+John M 2 6 30000
+Rayan M 5 7 40000
+Erica F 22 10 50000
+Maya F 21 8 60000
+Dan M 12 5 70000
+Vincent M 12 7 80000
+Caitlin F 20 7 90000
+Sam M 12 9 10000
