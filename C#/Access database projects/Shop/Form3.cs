@@ -13,7 +13,7 @@ namespace Shop
 {
     public partial class Form3 : Form
     {
-        public int[] id = Form2.id.ToArray(); //ovo je bio pokusaj da se ta lista konvertuje u niz
+        public int[] id = Form2.id.ToArray();
         public String[] name = Form2.name.ToArray();
         public int[] price = Form2.price.ToArray();
         public int[] quantity = Form2.quantity.ToArray();
@@ -33,7 +33,7 @@ namespace Shop
 
         private void btConfirm_Click(object sender, EventArgs e)
         {
-            for (int i = 0; i < id.Length; i++)//ovo je provera da bi videli da li niz radi, na zalost ne radi :(
+            for (int i = 0; i < id.Length; i++)
             {
                 if (id[i].ToString().CompareTo(textBox1.Text) == 0 && quantity[i] >= Int32.Parse(textBox2.Text))
                 {
